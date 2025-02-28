@@ -374,7 +374,7 @@ a.button--second {
 }
 
 .button--second::before {
-    content: url(/img/play.svg);
+    content: url(./img/play.svg);
 
     width: 20px;
     height: 20px;
@@ -397,7 +397,7 @@ a.button--second {
     position: relative;
     z-index: 166;
 
-    background-image: url(/img/bg_product.svg);
+    background-image: url(./img/bg_product.svg);
     background-size: cover;
     background-position: bottom;
 }
@@ -565,7 +565,7 @@ a.button--second {
     top: 10%;
     width: 35px;
     height: 35px;
-    background-image: url(/img/icon-list1.svg);
+    background-image: url(./img/icon-list1.svg);
 
 
 }
@@ -577,7 +577,7 @@ a.button--second {
     top: 10%;
     width: 35px;
     height: 35px;
-    background-image: url(/img/icon-list2.svg);
+    background-image: url(./img/icon-list2.svg);
 
 
 }
@@ -588,7 +588,7 @@ a.button--second {
     top: 10%;
     width: 35px;
     height: 35px;
-    background-image: url(/img/icon-list3.svg);
+    background-image: url(./img/icon-list3.svg);
 
 }
 
@@ -655,7 +655,7 @@ a.button--second {
     top: 0;
     content: "";
     transform: scaleY(-1);
-    background-image: url(/img/bg_product.svg);
+    background-image: url(./img/bg_product.svg);
     background-size: cover;
     background-position: bottom;
 }
